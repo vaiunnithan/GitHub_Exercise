@@ -1,0 +1,2 @@
+This is my second txt file.
+Used for Homework 2 GitHub intro
